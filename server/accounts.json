@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Toknar",
+    "privateKey": "0x752e291be759649c09b129f19022508b9d2ba79ed9119d6559633f8637cbc942",
+    "address": "0x3A26ED465EF78a4318365eF6a3b7220B15943DdD",
+    "balance": "0.0"
+  },
+  {
+    "name": "Seller",
+    "privateKey": "0xb3eacb8bd040c82908eede78a00b7f82d50d32473573db80760826652775c8fb",
+    "address": "0x30a54BCdd7A0c4F16cA86355FcCbdc5D32533214",
+    "balance": "0.0"
+  },
+  {
+    "name": "Funder",
+    "privateKey": "0x17b07fa287d9b15e4346ce70b41c63fb9368b0b4ecee437a6621b2e771cb214e",
+    "address": "0xF0d47Ad3a6d6FF5b845cE9449dddCe2D355DAdd2",
+    "balance": "0.0"
+  },
+  {
+    "name": "Debtor",
+    "privateKey": "0x7403bd0092dce03f8a4126df340f461edca32ab3689c097f389cbd70bf7208a1",
+    "address": "0x38fE7a043360eE758A992507AbA0e953445565BB",
+    "balance": "0.0"
+  }
+]
